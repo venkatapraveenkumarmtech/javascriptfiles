@@ -1,0 +1,54 @@
+JAVA SCRIPT
+--------------------
+
+
+DATA TYPES
+..................
+
+
+1.PRIMITIVE DATATYPES
+   >number
+   >string
+   >boolean
+   >undifined
+   >null
+2.NON-PRIMITIVE DATATYPES
+   >array
+   >objects
+   >functions
+...............................
+
+
+1.1.number
+...........
+
+console.log(10,20,30);
+
+1.2.string
+............
+
+var text="Hi misard members!"
+console.log(text);
+
+1.3.boolean
+..................
+
+var test=10>20;
+console.log(test);
+
+1.4 undefined
+...................
+
+let dob;
+console.log(dob);
+
+
+1.5 null
+............
+
+let meeting=null;
+console.log(meeting);
+
+
+    
+
