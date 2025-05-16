@@ -1,0 +1,11 @@
+data types
+
+primitive data types
+non-primitive data types
+
+in primitive we have
+     number
+     string
+     boolean
+     null
+     undefined
