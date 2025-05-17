@@ -1,0 +1,22 @@
+object is a collection of key-value pairs
+syntax: let objectname=
+{
+    key1:value1
+    key2:value2
+    key3:value3
+}
+in object i created one array also...
+like:
+let cricket={
+    name:"virat",
+    age:30,
+    hiedhestruns:143,
+    role:["batter","captain","goodfielder"],
+    state:"delhi"
+
+}
+
+i want ouput like name and also role is goodfielder so follow the below keyword.
+ console.log(cricker.name);
+ console.log(cricket.role[2]);
+ this is all about object syntax and examle...
