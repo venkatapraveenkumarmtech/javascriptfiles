@@ -1,4 +1,4 @@
-function misard(excellent,name)
+function suri(excellent,name)
 {
     console.log("hello",name);
     excellent();
@@ -11,4 +11,4 @@ function excellent()
 
 }
 
-misard(excellent,"praveen");
+suri(excellent,"praveen");
