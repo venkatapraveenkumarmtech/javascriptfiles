@@ -1,0 +1,63 @@
+function:-
+   A block of a code written to do a particular task is called function.
+
+
+   block:- any thing enclosed between {}
+      eg:-
+              {
+                 statement1;
+                 statement2;
+                 ----------
+                 ----------
+                      statement;
+                }
+function definition :-
+                       we will make our user -defined function like
+                                 function findarea(pi,r,r)
+                                     {
+                                      
+                                 
+                                    return pi*r*r;
+                                    }
+                               let area=findarea(3.14,5,5)--------------------------->>>this is function calling
+                                 console.log("the area of our circle is:"+area);
+
+
+
+functin is divided into 4 types..
+                         1. named function
+                         2.annomus fnctin
+                         3.IIFE
+                         4.arrow funcion. 
+                   above one is exampleof named function......
+                    now we discuss abou annomousfuncton.
+                       2.annomus function.
+                                           let myarea=function(pi,r,r)
+                                     {
+                                      
+                                 
+                                    return pi*r*r;
+                                    }
+                            consle.log("the area of the circle is"+myarea(3.14,10,10));
+
+
+
+
+                        3. IIFE :-      
+                                         (function(actor_name)
+                                           {
+                                             document.write(actor_name);
+                                             })
+                                          ("Chiranjeevi");
+                        4.  Arrow function:-
+                                                  
+
+
+                                          let polity  = ()=>
+                                                       {
+                                                    console.log("Indian constution");
+                                                    console.log("written by dr b r Ambedkar:");
+                                                      }
+                                             polity();
+                                             
+                                              
